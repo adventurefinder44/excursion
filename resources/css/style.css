@@ -4,7 +4,9 @@ a {color: Aquamarine;
   font-size: 16px;}
 #header {color: white; font-family: Verdana; font-weight: Normal; font-size: 50px; text-align: center;}
 h2 {text-align: center; font-family: Verdana; font-size: 42px; font-weight: 300; color: white;}
-body {background-color: black;}
+body {background-color: black; text-align: center;}
 P {color: white; text-align: center;}
 #copywrite {color: grey; text-align: right;}
 .travelguide {text-align: center;}
+p {font-size: 21px; color: gray; font-family: Verdana;}
+h3 {text-align: center;}
